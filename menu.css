@@ -22,7 +22,9 @@ li a{
     background: #444444}
 li a:hover{
     background-color: #222222;
-    color: #5414f7; }
+    color: #5414f7;
+    border: 1px solid #5414f7;
+}
 
 p1{
     position: absolute;

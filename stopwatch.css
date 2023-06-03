@@ -12,6 +12,11 @@
     cursor: pointer;
     font-family:monospace;
 }
+.stopwatchButton:hover{
+    border: 4px solid #5414f7;
+    background-color: #222222;
+    color: #5414f7
+}
 #stopwatchDisplay{
     text-align: center;
     font-size: 80px;
